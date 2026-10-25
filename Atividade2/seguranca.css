@@ -1,0 +1,46 @@
+body {
+    background-color: #5C5A5A;
+}
+
+h1 {
+    text-align: center;
+    color: #212121;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px #363434;
+    font-family: "Smooch Sans", sans-serif;
+}
+
+p {
+    text-align: center;
+    text-size-adjust: 100%;
+    color: #212121;
+}
+
+h2 {
+    text-align: center;
+    color: #212121;
+    font-family: "Smooch Sans", sans-serif;
+    text-shadow: 2px 2px 4px #363434;
+}
+
+#inicio {
+  max-width: 600px;
+  margin: 20px auto;
+  color: #212121;
+}
+
+#inicio ul {
+  list-style: disc; 
+  padding: 0;
+}
+
+#nao-fazer {
+  max-width: 600px;
+  margin: 20px auto;
+  color: #212121;
+}
+
+#nao-fazer ul {
+  list-style: disc; 
+  padding: 0;
+}

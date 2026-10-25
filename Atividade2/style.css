@@ -1,0 +1,83 @@
+/* Cor do plano de fundo */
+body {
+    background-color: #5C5A5A;
+}
+
+/* Estilo do titulo principal */
+h1 {
+    text-align: center;
+    color: #212121;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px #363434;
+    font-family: "Smooch Sans", sans-serif;
+}
+
+#inicio {
+    text-align: center;
+    text-size-adjust: 100%;
+    color: #212121;
+}
+
+/* Estilo dos titulos */
+h2 {
+    text-align: center;
+    color: #212121;
+    font-family: "Smooch Sans", sans-serif;
+    text-shadow: 2px 2px 4px #363434;
+}
+
+/* Estilo das seções */
+#antes{
+    text-align: center;
+    max-width: 800px;     
+    margin: 0 auto;       
+    text-align: center;   
+    padding: 0 20px;
+    color: #212121;
+}
+
+#materiais {
+  max-width: 600px;
+  margin: 20px auto;
+  color: #212121;
+}
+
+#materiais ul {
+  list-style: disc; 
+  padding: 0;
+}
+
+#materiais li {
+  padding: 10px 0;
+  border-bottom: 1px solid black;
+}
+
+#passos {
+  max-width: 600px;
+  margin: 20px auto;
+  color: #212121;
+}
+
+#passos ol {
+  padding-left: 20px;
+  margin: 0;
+}
+
+#passos li {
+  padding: 10px 0;
+  border-bottom: 1px solid black;
+}
+
+#cuidados {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+  color: #212121;
+}
+
+/* Estilo do rodapé */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #2e2e2e;
+}
