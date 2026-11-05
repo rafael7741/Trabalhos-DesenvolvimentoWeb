@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    width: 60%;
+}
+
+th, td {
+    border: 1px solid #000;
+    padding: 6px;
+}
+
+.cabecalho {
+    background-color: orangered;
+    color: #fff;
+}
+
+.nada {
+    background-color: black;
+}

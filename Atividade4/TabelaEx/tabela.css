@@ -1,0 +1,10 @@
+table th, table td {
+    border: 1px dashed black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 2%;
+}
+
+.cabecalho {
+    background-color: #BA1C00;
+}
